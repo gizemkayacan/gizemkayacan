@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there, I'm Gizem! 👋
 
-<!--
-**gizemkayacan/gizemkayacan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Engineering student passionate about software development, avionics, and hardware integration. I enjoy building structured systems ranging from web interfaces to embedded microcontrollers.
 
-Here are some ideas to get you started:
+#### 🛠️ Tech Stack & Tools
+* **Languages:** C#, SQL, C++
+* **Web Development:** Blazor
+* **Hardware & Embedded:** ESP32, LoRa Modules, Sensor Integration
+* **Desktop UI:** PyQt6
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌱 Currently Working On
+* Exploring Data Management and Business Intelligence solutions.
+* Developing secure, web-based database reporting interfaces using Blazor and SQL Server.
+* Tinkering with embedded systems, microcontrollers (ESP32), and IoT communication.
+
+📫 **How to reach me:** [Şerife Gizem Kayacan](https://www.linkedin.com/in/gizem-kayacan/)
