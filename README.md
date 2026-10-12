@@ -3,7 +3,7 @@
 I am a Computer Engineering student passionate about software development, avionics, and hardware integration. I enjoy building structured systems ranging from web interfaces to embedded microcontrollers.
 
 #### 🛠️ Tech Stack & Tools
-* **Languages:** C#, SQL, C++
+* **Languages:** C#, SQL, Python
 * **Web Development:** Blazor
 * **Hardware & Embedded:** ESP32, LoRa Modules, Sensor Integration
 * **Desktop UI:** PyQt6
